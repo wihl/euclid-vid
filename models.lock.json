@@ -1,0 +1,23 @@
+{
+  "alignment": {
+    "repo": "jonatasgrosman/wav2vec2-large-xlsr-53-greek",
+    "revision": "489b34fb35fc5876af6193d419772cb9d6d1d531",
+    "cached_safetensors_conversion_revision": "3a24c831c53ff68aa12b1f9bf6cdb8a9006122d6"
+  },
+  "enhancement": {
+    "repo": "alibabasglab/MossFormer2_SE_48K",
+    "revision": "eff8c97925c8bec812af707814b3e5d777fd4503",
+    "checkpoint": "last_best_checkpoint.pt",
+    "sha256": "03692b9f773bbd6bb43b9c5a41f96b1e28affd66e13796b7bec66ad3d8b227c6"
+  },
+  "separation": {
+    "repo": "alibabasglab/MossFormer2_SS_16K",
+    "revision": "407cb030cd66340918ebb6c8cc63b18f8592cdbe",
+    "checkpoint": "last_best_checkpoint.pt",
+    "sha256": "00a3a48bda492db1e829b85dd443f8f43a43039a3e90f1a24962ea9caf14a11a"
+  },
+  "independent_diagnostic": {
+    "package": "openai-whisper==20250625",
+    "model": "small"
+  }
+}

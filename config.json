@@ -1,0 +1,14 @@
+{
+  "greek_start_original": 38.0,
+  "remove": {
+    "start": 14.0,
+    "end": 38.0
+  },
+  "alignment_model": "jonatasgrosman/wav2vec2-large-xlsr-53-greek",
+  "alignment_audio": "enhanced",
+  "render_audio": "audio-selected.wav",
+  "font": "Palatino Linotype",
+  "font_size": 21,
+  "panel_opacity": 0.78,
+  "margin_bottom": 14
+}

@@ -1,1 +1,6 @@
 input/
+work/
+output/
+.venv/
+__pycache__/
+*.pyc

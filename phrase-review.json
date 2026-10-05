@@ -1,0 +1,19 @@
+{
+  "source": "Whisper small Greek word timestamps cross-checked against the CTC decode; work/whisper and work/model-greedy.txt are diagnostics only.",
+  "overrides": {
+    "6": {"start_original": 60.1},
+    "8": {"start_original": 74.6, "end_original": 78.9},
+    "9": {"start_original": 79.4, "end_original": 85.1},
+    "13": {"start_original": 98.5, "end_original": 104.1},
+    "14": {"start_original": 105.0, "end_original": 112.9},
+    "15": {"text": "καὶ βάσις ἡ ΓΗ", "start_original": 113.3, "end_original": 115.6},
+    "16": {"spoken": false},
+    "17": {"spoken": false},
+    "18": {"text": "εὐθεῖα ἐπ᾿ εὐθεῖαν σταθεῖσα τὰς ἐφεξῆς γωνίας ἴσας ἀλλήλαις ποιῇ,", "start_original": 115.9, "end_original": 122.7},
+    "19": {"start_original": 123.4, "end_original": 126.3},
+    "20": {"start_original": 127.3, "end_original": 131.6},
+    "21": {"start_original": 132.4},
+    "23": {"end_original": 141.6},
+    "24": {"start_original": 142.0, "end_original": 143.3}
+  }
+}
